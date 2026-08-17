@@ -1,0 +1,8 @@
+.DS_Store
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+*.pdf
+*.egg-info/
+**/neurein.egg-info/
+**/neunet_autograder.egg-info/
